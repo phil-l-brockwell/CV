@@ -2,7 +2,7 @@
 
 I am a Junior Web/Mobile Developer in London. I enjoy working out how things work and what started out as a hobby has lead to a full time profession.
 
-Check out some of my code on [GitHub](https://github.com/robertpulson).
+Check out some of my work on my [website](http://phil-brockwell.herokuapp.com) or code on [GitHub](https://github.com/robertpulson).
 
 # Code Examples
 
@@ -40,13 +40,13 @@ A few years ago, I built my first website using an online template. I quickly de
 
 # Education
 
-# Makers Academy: January 2015 - April 2015
+**Makers Academy: January 2015 - April 2015**
 * Highly selective 12 week full-time course
 * Object Oriented Design
 * Teamwork/Pair Programming
 * Ruby and Javascript full stack web development
 
-# Greenwich School of Management: June 2013 - January 2016
+**Greenwich School of Management: June 2013 - January 2016**
 * Full time Computer Science Undergraduate Degree
 * Software Development Lifecycles
 * Artificial Intelligence
@@ -56,3 +56,20 @@ A few years ago, I built my first website using an online template. I quickly de
 * In two years have achieved an 83% average, on target for first class honours degree.
 
 ![ScreenShot](https://github.com/robertpulson/github_cv/blob/master/Screen%20Shot%202015-04-28%20at%2015.13.55.png?raw=true)
+
+# Working Experience
+
+**Plumbshot: Self Employed Plumbing Business, 2009 - 2014**
+* Qualified in Mechanical Engineering to NVQ3 level with ACS Gas
+* Accounting, Marketing and Promotion
+* Patience, Persistence and Perseverance 
+
+**Varios Sales Roles: British Telecom, Red Cross, LexisNexis, 2007 - 2009**
+* Supervised a team in charge of selling BT Vision
+* One of the top marketeers for the Red Cross in New Zealand, winning an all expenses paid trip to Brisbane Australia for a Top Sellers conference.
+* Learnt the importance of a positive mindset.
+
+# Say Hello
+* nineteen40eight@gmail.com
+* [LinkedIn](https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button)
+* [philbrockwell.com](http://phil-brockwell.herokuapp.com)
