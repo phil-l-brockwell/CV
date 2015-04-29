@@ -6,9 +6,9 @@ Check out some of my work on my [Website](http://phil-brockwell.herokuapp.com) o
 
 # Code Examples
 
-| [Napstop](https://github.com/robertpulson/napstop) | [Notstagram](https://github.com/robertpulson/instagram-challenge) | [Thermostat](https://github.com/robertpulson/thermostat) |
+| [Napstop](https://github.com/robertpulson/napstop) | [To Do List](https://github.com/robertpulson/to-do-list/blob/master/README.md) | [Thermostat](https://github.com/robertpulson/thermostat) |
 |:---------- |:---------- |:---------- |
-| Mobile phone app created for Makers Academy Makerthon, to prevent a user from missing their train stop, if they fall asleep. | Clone of the popular image sharing website, created using Ruby on Rails. | A Javascript web app for a thermostat interface, Test Driven with Jasmine Testing suite. |
+| Mobile phone app created for Makers Academy Makerthon, to prevent a user from missing their train stop, if they fall asleep. | An Online task management system, built using JavaScript and Angular JS. | A Javascript web app for a thermostat interface, Test Driven with Jasmine Testing suite. |
 
 # About me
 
