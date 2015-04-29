@@ -1,8 +1,6 @@
 # Phil Brockwell
 
-I am a Junior Web/Mobile Developer in London. I enjoy working out how things work and what started out as a hobby has lead to a full time profession.
-
-Check out some of my work on my [Website](http://phil-brockwell.herokuapp.com) or code on [GitHub](https://github.com/robertpulson).
+I am a Junior Web/Mobile Developer in London, who stumbled accross the intricacies of computer science a few years ago. My keen attitude for problem solving, thirst for learning, and interest in all things technological, lead me to a decision to take the red pill and embark on a new career. 
 
 # Code Examples
 
@@ -14,42 +12,19 @@ Check out some of my work on my [Website](http://phil-brockwell.herokuapp.com) o
 
 I have spent the last ten years of my career working in the building industry, largely as a Self Employed Plumber. Throughout this career I was able to achieve many goals and targets, such as securing my first mortgage. By running my own business I also learnt a lot about time management, workflow and self promotion. However I had always felt a sense of discontentment and realised that this was not how I planned to spend the rest of my working life.
 
-A few years ago, I built my first website using an online template. I quickly decided this was a career path I wanted to pursue further. This prompted me to enrol in a full time Computer Science Degree with the Greenwich School of Management, and later to dedicate 12 weeks to a full time intensive web development course with the Makers Academy.
+Three years ago, I built my first website using an online template. I quickly decided this was a career path I wanted to pursue further. This prompted me to enrol in a full time Computer Science Degree with the Greenwich School of Management, and later to dedicate 12 weeks to a full time intensive web development course with the Makers Academy.
 
-# Skills
-
-* Test Driven Development
-* Pair Programming
-* Ruby 2.0
-* Rails 4
-* PostgreSQL
-* Sinatra
-* JavaScript, jQuery and Angular
-* HTML5, ERB, HAML, Jade and CSS
-* Deploying mobile apps with PhoneGap/Cordova
-* Evothings Workbench for programming iBeacons
-* Deploying web apps with Heroku
-* Using NodeJS/Express
-* Using paperclip to input photos into a rails database
-* Version control with GitHub
-* FactoryGirl user mocking
-* Rspec and Jasmine unit testing
-* Capybara Integration Testing
-* Cucumber Behaviour Driven Development
-* User authentication with bcrypt and Devise
-
-# Education
+# What have I learnt?
 
 **Makers Academy: January 2015 - April 2015**
-* Highly selective 12 week full-time course
-* Object Oriented Design
-* Teamwork/Pair Programming
+* The principles of Object Oriented Design
+* The importance of Test Driven Development
+* The value of pair programming; gaining perspective and experience from others
+* How to work as part of a team; collaborating on two separate projects
 * Ruby and Javascript full stack web development
 
 **Greenwich School of Management: June 2013 - January 2016**
-* Full time Computer Science Undergraduate Degree
 * Software Development Lifecycles
-* Artificial Intelligence
 * Quantitative Methods for Computing
 * Database Management Systems with MySQL
 * Programming with C#, Java and JavaScript
@@ -72,5 +47,4 @@ A few years ago, I built my first website using an online template. I quickly de
 # Say Hello
 * 07737 932 693
 * nineteen40eight@gmail.com
-* [LinkedIn](https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button)
-* [philbrockwell.com](http://phil-brockwell.herokuapp.com)
+* [My Website](http://phil-brockwell.herokuapp.com)
