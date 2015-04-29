@@ -70,6 +70,7 @@ A few years ago, I built my first website using an online template. I quickly de
 * Learnt the importance of a positive mindset.
 
 # Say Hello
+* 07737 932 693
 * nineteen40eight@gmail.com
 * [LinkedIn](https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button)
 * [philbrockwell.com](http://phil-brockwell.herokuapp.com)
