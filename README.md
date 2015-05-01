@@ -47,5 +47,3 @@ Three years ago, I built my first website using an online template. I quickly de
 # How can you reach me?
 
 * 07737 932 693
-* nineteen40eight@gmail.com
-* [My Website](http://philbrockwell.com)
