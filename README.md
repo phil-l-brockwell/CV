@@ -6,11 +6,11 @@ I am a Junior Web/Mobile Developer in London, who stumbled accross the intricaci
 
 | [Napstop](https://github.com/robertpulson/napstop) | [To Do List](https://github.com/robertpulson/to-do-list/blob/master/README.md) | [Thermostat](https://github.com/robertpulson/thermostat) |
 |:---------- |:---------- |:---------- |
-| Mobile phone app created for Makers Academy Makerthon, to prevent a user from missing their train stop, if they fall asleep. | An Online task management system, built using JavaScript and Angular JS. | A Javascript web app for a thermostat interface, Test Driven with Jasmine Testing suite. |
+| Mobile phone app created for Makers Academy Makerthon, to prevent a user from missing their train stop, if they fall asleep. | An Online task management system, built using JavaScript and Angular JS. | A Javascript web app for a thermostat interface, Test Driven with Jasmine Test suite. |
 
 # Who am I?
 
-I have spent the last ten years of my career working in the building industry, largely as a Self Employed Plumber. Throughout this career I was able to achieve many goals and targets, such as securing my first mortgage. By running my own business I also learnt a lot about time management, workflow and self promotion. However I had always felt a sense of discontentment and realised that this was not how I planned to spend the rest of my working life.
+I have spent the last ten years of my career working in the building industry, largely as a Self Employed Plumber. Throughout this career I have achieved many goals and targets, such as securing my first mortgage. By running my own business I also learnt a lot about time management, workflow and self promotion. However I had always felt a sense of discontentment and realised that this was not how I planned to spend the rest of my working life.
 
 Three years ago, I built my first website using an online template. I quickly decided this was a career path I wanted to pursue further. This prompted me to enrol in a full time Computer Science Degree with the Greenwich School of Management, and later to dedicate 12 weeks to a full time intensive web development course with the Makers Academy.
 
@@ -36,10 +36,10 @@ Three years ago, I built my first website using an online template. I quickly de
 
 **Plumbshot: Self Employed Plumbing Business, 2009 - 2014**
 * Qualified in Mechanical Engineering to NVQ3 level with ACS Gas
-* Accounting, Marketing and Promotion
+* Accounting, Marketing and Self-Promotion
 * Patience, Persistence and Perseverance 
 
-**Varios Sales Roles: British Telecom, Red Cross, LexisNexis, 2007 - 2009**
+**Various Sales Roles: British Telecom, Red Cross, LexisNexis, 2007 - 2009**
 * Supervised a team in charge of selling BT Vision
 * One of the top marketeers for the Red Cross in New Zealand, winning an all expenses paid trip to Brisbane Australia for a Top Sellers conference.
 * Learnt the importance of a positive mindset.
