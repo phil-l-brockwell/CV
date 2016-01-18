@@ -7,7 +7,7 @@ I am a Junior Web Developer in London with a passion for clean, expressive code 
 ## Nvoice = [Site](http://n-voice-app.herokuapp.com/#/welcome) && [Code](https://github.com/robertpulson/nvoice)
 An interactive, intuitive, web app for small businesses to send customer invoices. The app was built using Ruby on Rails with an Angular front end. The interface allows the user to input the details of work carried out and offers a live preview as changes are made. Once complete an invoice is generated using the wicked pdf gem, then sent using a rails mailer.
 
-## Greenwich Fitness App = [App-Code](https://github.com/robertpulson/greenwich-fitness-app) [API](https://greenwich-fitness-api.herokuapp.com) && [API-Code](https://github.com/robertpulson/mobile_cw_api)
+## Greenwich Fitness App = [App-Code](https://github.com/robertpulson/greenwich-fitness-app) &&  [API](https://greenwich-fitness-api.herokuapp.com) && [API-Code](https://github.com/robertpulson/mobile_cw_api)
 A mobile application built for a coursework task for the Greenwich School of Management. The app was built using the Ionic framework in conjunction with a Rails API to store jSON content. Reviews can be posted to the API and will be updated immediately on the app.
 
 ## Banking Application = [Site](https://greenwich-banking.herokuapp.com/holders) && [Code](https://github.com/robertpulson/banking_application)
