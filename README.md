@@ -4,13 +4,13 @@ I am a Junior Web Developer in London with a passion for clean, expressive code 
 
 # What have I coded?
 
-## Nvoice [Site](http://n-voice-app.herokuapp.com/#/welcome) [Code](https://github.com/robertpulson/nvoice)
+## Nvoice || [Site](http://n-voice-app.herokuapp.com/#/welcome) || [Code](https://github.com/robertpulson/nvoice)
 An interactive, intuitive, web app for small businesses to send customer invoices. The app was built using Ruby on Rails with an Angular front end. The interface allows the user to input the details of work carried out and offers a live preview as changes are made. Once complete an invoice is generated using the wicked pdf gem, then sent using a rails mailer.
 
-## Greenwich Fitness App [App-Code](https://github.com/robertpulson/greenwich-fitness-app) [API](https://greenwich-fitness-api.herokuapp.com) [API-Code](https://github.com/robertpulson/mobile_cw_api)
+## Greenwich Fitness App || [App-Code](https://github.com/robertpulson/greenwich-fitness-app) [API](https://greenwich-fitness-api.herokuapp.com) || [API-Code](https://github.com/robertpulson/mobile_cw_api)
 A mobile application built for a coursework task for the Greenwich School of Management. The app was built using the Ionic framework in conjunction with a Rails API to store jSON content. Reviews can be posted to the API and will be updated immediately on the app.
 
-## Banking Application [Site](https://greenwich-banking.herokuapp.com/holders) [Code](https://github.com/robertpulson/banking_application)
+## Banking Application || [Site](https://greenwich-banking.herokuapp.com/holders) || [Code](https://github.com/robertpulson/banking_application)
 A banking system built as a coursework task for the Greenwich School of Management, demonstrating Object Oriented Design principles and patterns. The app was built with a simple command line interface, however a front end web interface was built with Sinatra for visual clarity. The banking system was test driven using the rspec and timecop gems. A task scheduling gem was used to automate interest payments.
 Various design patterns were also used: The singleton pattern was used to ensure only a single instance of each controller was available throughout the program. The memento pattern was used to rollback invalid transactions.
 
