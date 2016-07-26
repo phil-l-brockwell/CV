@@ -2,6 +2,10 @@
 
 I am a Junior Web Developer in London with a passion for clean, expressive code and a particular enthusiasm for Ruby on Rails. I stumbled across the intricacies of computer science a few years ago. My keen attitude for problem solving, thirst for learning, and interest in all things technological, lead me to a decision to take the red pill and embark on a new career.
 
+# What am I doing currently?
+
+I am currently working in Shoreditch for [Cool Camping](www.coolcamping.co.uk) as a Junior Rails Developer. In this position I have been responsible for implementing a test suite, with Rspec and Capybara, and most recently redesigning the most popular parts of the website, ensuring full mobile friendlyness.
+
 # What have I coded?
 
 ## Nvoice = [Site](http://n-voice-app.herokuapp.com/#/welcome) && [Code](https://github.com/robertpulson/nvoice)
@@ -30,13 +34,11 @@ Three years ago, I built my first website using an online template. I quickly de
 * Ruby and Javascript full stack web development
 
 **Greenwich School of Management: June 2013 - January 2016**
+* First class honours degree, scoring over 70% on all modules
 * Software Development Lifecycles
 * Quantitative Methods for Computing using SPSS
 * Database Management Systems with MySQL
 * Programming with C#, C++, Java and JavaScript
-* In two years have achieved an 83% average, on target for first class honours degree.
-
-![ScreenShot](https://github.com/robertpulson/github_cv/blob/master/Screen%20Shot%202015-04-28%20at%2015.13.55.png?raw=true)
 
 # Where have I worked?
 
